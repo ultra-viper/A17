@@ -21,11 +21,11 @@ global.prefa = ["."];                                    //Default prefix here. 
 
 
 //
-global.Owner = ["27791561843", "27792117307"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
-global.OwnerNumber = ["27791561843", "27792117307"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.Owner = ["27791561843", "27656402092", "27792117307"];         //If you want singal number so global.Owner = ['916297175943'] Change into your number.
+global.OwnerNumber = ["27791561843", "27656402092", "27792117307"];   //If you want singal number so global.Owner = ['916297175943'] Change into your number.
 global.ownertag = ["27791561843"];
 global.OwnerName = "Jonathan";
-global.BotName = "A17";
+global.BotName = "AQUAMARINE";
 global.packname = "A17 Bot";                             //Do not change.
 global.author = "By: Kai";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai0071/A17"; //Do not change.
@@ -82,7 +82,7 @@ global.mess = {
   jobdone: 'Here you go...',
   useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
   botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-  botowner: 'Only my *Owner* can use this command, Baka!',
+  botowner: 'Only my master *Owner* can use this command, Baka!',
   grouponly: 'This command is only made for *Groups*, Baka!',
   privateonly: 'This command is only made for *Private Chat*, Baka!',
   botonly: 'Only the *Bot itself* can use this command!',
